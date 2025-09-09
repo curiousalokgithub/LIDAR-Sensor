@@ -76,6 +76,7 @@ runs/
 # MMDetection3D specific
 work_dirs/
 data/checkpoints/
+mmdetection3d/
 
 # LaTeX auxiliary files
 *.aux
